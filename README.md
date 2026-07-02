@@ -1,7 +1,7 @@
-````markdown
+
 #  🚀100 Python Programming Solutions
 
-> A beginner-friendly collection of **100 Python programming problems and solutions** covering Python fundamentals, problem-solving, data structures, algorithms, searching, sorting, strings, lists, dictionaries, patterns, and number system conversions.
+ A beginner-friendly collection of **100 Python programming problems and solutions** covering Python fundamentals, problem-solving, data structures, algorithms, searching, sorting, strings, lists, dictionaries, patterns, and number system conversions.
 
 ---
 
