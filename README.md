@@ -5,20 +5,6 @@
 
 ---
 
-## 📖 About
-
-This repository is designed for:
-
-- 🎓 Students preparing for coding interviews
-- 💻 Beginners learning Python
-- 📝 Placement and aptitude preparation
-- 🚀 Competitive programming practice
-- 📚 Revision of Python concepts
-
-Every program is written with **simple, readable, and beginner-friendly code**, making it easy to understand and practice.
-
----
-
 # 📂 Topics Covered
 
 ## 🔹 1. Basic Programs
@@ -156,29 +142,15 @@ Every program is written with **simple, readable, and beginner-friendly code**, 
 - Pascal's Triangle
 
 ---
-# 💡 Features
+## 🎯 Who Can Use This?
 
-- ✅ 100 Python programs
-- ✅ Beginner-friendly solutions
-- ✅ Easy to understand
-- ✅ Well-organized folders
-- ✅ Covers interview questions
-- ✅ Placement preparation
-- ✅ Data Structures & Algorithms
-- ✅ Pattern problems
-- ✅ Number system conversions
-- ✅ Searching & Sorting algorithms
+- 🎓 Students preparing for coding interviews
+- 💻 Beginners learning Python
+- 📝 Placement and aptitude preparation
+- 🚀 Competitive programming practice
+- 📚 Revision of Python concepts
 
----
+Every program is written with **simple, readable, and beginner-friendly code**, making it easy to understand and practice.
 
-# 🎯 Who Can Use This?
 
-- Python Beginners
-- College Students
-- Placement Aspirants
-- Interview Preparation
-- Coding Practice
-- Competitive Programmers
-
----
 
